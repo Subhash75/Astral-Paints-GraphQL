@@ -11,3 +11,5 @@ A GraphQL-based project that uses Apollo Client to fetch data on the server, dev
 ## Pictures
 
 ![alt text](https://github.com/Subhash75/Astral-Paints-GraphQL/blob/master/public/images/projectss2.PNG?raw=true)
+![alt text](https://github.com/Subhash75/Astral-Paints-GraphQL/blob/master/public/images/projectss1.PNG?raw=true)
+![alt text](https://github.com/Subhash75/Astral-Paints-GraphQL/blob/master/public/images/projectss3.PNG?raw=true)
